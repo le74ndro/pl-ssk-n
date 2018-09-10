@@ -13,7 +13,7 @@
 
 [The Python Tutorial](https://docs.python.org/tutorial/index.html)  
 
-[Python Documentation Contents](https://docs.python.org/contents.html)  
+  
 
   
 
@@ -22,7 +22,7 @@ Global Module Index : quick access to all modules
 General Index : all functions, classes, terms  
 [Glossary](https://docs.python.org/glossary.html) : the most important terms explained  
 Search page : search this documentation  
-Complete Table of Contents : lists all sections and subsections  
+Complete Table of Contents [Python Documentation Contents](https://docs.python.org/contents.html) : lists all sections and subsections  
 
 Meta information:  
 Reporting bugs  
