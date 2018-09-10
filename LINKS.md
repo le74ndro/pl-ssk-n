@@ -61,3 +61,10 @@ Unofficial by [Learnhall](https://www.youtube.com/channel/UCiWi_eloIEWJwz4iqYDh6
 ## [wikipedia/Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 
+
+## Al Sweigart
+
+[Al Sweigart, "Automating Your Browser and Desktop Apps", PyBay2016](https://www.youtube.com/watch?v=dZLyfbSQPXI)  
+
+
+
