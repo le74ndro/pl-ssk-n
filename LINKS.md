@@ -65,6 +65,8 @@ Unofficial by [Learnhall](https://www.youtube.com/channel/UCiWi_eloIEWJwz4iqYDh6
 ## Al Sweigart
 
 [Al Sweigart, "Automating Your Browser and Desktop Apps", PyBay2016](https://www.youtube.com/watch?v=dZLyfbSQPXI)  
+
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners 1st Edition  
 [Amazon](https://www.amazon.com/gp/product/1593275994/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=playwithpyth-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593275994&linkId=8a8e0ae7d1b277b2352cb8006ba5de09)  
 
 
