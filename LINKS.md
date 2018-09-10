@@ -44,6 +44,7 @@ Supporting Python 3: An in-depth guide
 
 ## [A Byte of Python by Swaroop C H](https://python.swaroopch.com/)
 [Blog](https://swaroopch.com/)  
+[github/swaroopch](https://github.com/swaroopch)  
 
 Official [.pdf](https://legacy.gitbook.com/book/swaroopch/byte-of-python/details)  
 github/swaroopch/[byte-of-python](https://github.com/swaroopch/byte-of-python)  
