@@ -11,12 +11,11 @@
  [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 ## [Python Documentation](https://docs.python.org/)
 
-[The Python Tutorial](https://docs.python.org/tutorial/index.html)  
 
   
 Parts of the documentation:  
 What's new in Python 3.7? : or all "What's new" documents since 2.0  
-Tutorial : start here  
+Tutorial [The Python Tutorial](https://docs.python.org/tutorial/index.html) : start here  
 Library Reference : keep this under your pillow  
 Language Reference : describes syntax and language elements  
 Python Setup and Usage : how to use Python on different platforms  
