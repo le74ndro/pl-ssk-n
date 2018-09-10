@@ -15,6 +15,9 @@
 
 [Python Documentation Contents](https://docs.python.org/contents.html)  
 
+[Glossary](https://docs.python.org/glossary.html)  
+
+
 
 ## [wikipedia/Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
