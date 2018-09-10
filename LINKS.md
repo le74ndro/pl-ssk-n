@@ -14,8 +14,18 @@
 [The Python Tutorial](https://docs.python.org/tutorial/index.html)  
 
   
-
-  
+Parts of the documentation:  
+What's new in Python 3.7? : or all "What's new" documents since 2.0  
+Tutorial : start here  
+Library Reference : keep this under your pillow  
+Language Reference : describes syntax and language elements  
+Python Setup and Usage : how to use Python on different platforms  
+Python HOWTOs : in-depth documents on specific topics  
+Installing Python Modules : installing from the Python Package Index & other sources  
+Distributing Python Modules : publishing modules for installation by others  
+Extending and Embedding : tutorial for C/C++ programmers  
+Python/C API : reference for C/C++ programmers  
+FAQs : frequently asked questions (with answers!)  
 
 Indices and tables:  
 Global Module Index : quick access to all modules  
