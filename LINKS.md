@@ -44,6 +44,11 @@ Supporting Python 3: An in-depth guide
 
 ## [A Byte of Python by Swaroop C H](https://python.swaroopch.com/)
 
+Official [.pdf](https://legacy.gitbook.com/book/swaroopch/byte-of-python/details)  
+
+A Byte of Vim (@github:swaroopch)[https://github.com/swaroopch/byte-of-vim]  
+
+
 Unofficial by [Learnhall](https://www.youtube.com/channel/UCiWi_eloIEWJwz4iqYDh6SQ):  
 [A Byte of Python](https://www.youtube.com/playlist?list=PLfgdZqI9ksaj6f49m9rPw2m1sT97MECDh) Playlist  
 [English Primer](https://www.youtube.com/watch?v=epEbUA6kWoc&list=PLfgdZqI9ksahRhb80s44Jud5qMyBseHSZ) Playlist  
