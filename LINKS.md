@@ -64,6 +64,7 @@ Unofficial by [Learnhall](https://www.youtube.com/channel/UCiWi_eloIEWJwz4iqYDh6
 
 ## Al Sweigart
 [Amazon](https://www.amazon.com/Al-Sweigart/e/B007716TEG/ref=dp_byline_cont_book_1)
+[YouTube](https://www.youtube.com/user/Albert10110/playlists)  
 
 [Al Sweigart, "Automating Your Browser and Desktop Apps", PyBay2016](https://www.youtube.com/watch?v=dZLyfbSQPXI)  
 
