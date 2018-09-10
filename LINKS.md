@@ -55,6 +55,9 @@ Offcial [.pdf](https://legacy.gitbook.com/download/pdf/book/swaroopch/byte-of-vi
 A Hands on Guide  
 
 
+https://python101.pythonlibrary.org/
+
+
 
 Unofficial by [Learnhall](https://www.youtube.com/channel/UCiWi_eloIEWJwz4iqYDh6SQ):  
 [A Byte of Python](https://www.youtube.com/playlist?list=PLfgdZqI9ksaj6f49m9rPw2m1sT97MECDh) Playlist  
