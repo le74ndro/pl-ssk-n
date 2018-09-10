@@ -1,2 +1,2 @@
-# pl-ssk-n
+# [pl-ssk-n](README.md)
 
