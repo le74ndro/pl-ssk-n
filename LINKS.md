@@ -18,6 +18,12 @@
 [Glossary](https://docs.python.org/glossary.html)  
 
 
+Meta information:  
+Reporting bugs  
+About the documentation  
+History and License of Python  
+Copyright  
+
 
 ## [wikipedia/Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
