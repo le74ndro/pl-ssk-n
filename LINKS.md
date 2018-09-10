@@ -48,7 +48,7 @@ Unofficial by [Learnhall](https://www.youtube.com/channel/UCiWi_eloIEWJwz4iqYDh6
 [A Byte of Python](https://www.youtube.com/playlist?list=PLfgdZqI9ksaj6f49m9rPw2m1sT97MECDh) Playlist  
 [English Primer](https://www.youtube.com/watch?v=epEbUA6kWoc&list=PLfgdZqI9ksahRhb80s44Jud5qMyBseHSZ) Playlist  
 [Students Teach: John Zelle's "Python: Intro to CS (Second Edition)](https://www.youtube.com/playlist?list=PLfgdZqI9ksajpCLbiC9uoqt9-lVsr6zBU) Playlist    
-
+[Elements of Style](https://www.learnhall.com/course?courseid=elements-of-style) Playlist  
 
 ## [wikipedia/Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
