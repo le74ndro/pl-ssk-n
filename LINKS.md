@@ -44,6 +44,11 @@ Supporting Python 3: An in-depth guide
 
 ## [A Byte of Python by Swaroop C H](https://python.swaroopch.com/)
 
+Unofficial:  
+[A Byte of Python](https://www.youtube.com/playlist?list=PLfgdZqI9ksaj6f49m9rPw2m1sT97MECDh)  
+[English Primer](https://www.youtube.com/watch?v=epEbUA6kWoc&list=PLfgdZqI9ksahRhb80s44Jud5qMyBseHSZ) Playlist  
+ 
+
 
 ## [wikipedia/Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
