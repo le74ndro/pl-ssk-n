@@ -42,6 +42,9 @@ Copyright
 ## [python3porting](http://python3porting.com)
 Supporting Python 3: An in-depth guide
 
+## [A Byte of Python by Swaroop C H](https://python.swaroopch.com/)
+
+
 ## [wikipedia/Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 
