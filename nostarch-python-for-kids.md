@@ -4,4 +4,5 @@
 A Playful Introduction to Programming  
 2013 by Jason R. Briggs  
 at [//nostarch/pythonforkids](https://nostarch.com/pythonforkids)  
+at [/pythonforkids](http://jasonrbriggs.com/python-for-kids)  
 
