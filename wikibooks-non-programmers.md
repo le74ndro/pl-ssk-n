@@ -9,4 +9,6 @@ reviews at [Amazon](https://www.amazon.com/Non-Programmers-Tutorial-Python-Josh-
 [Authors](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Authors)
 [Front Matter](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Front_matter)
 
+[Intro](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Intro)
+
 
