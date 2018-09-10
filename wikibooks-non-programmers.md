@@ -11,8 +11,8 @@ reviews at [Amazon](https://www.amazon.com/Non-Programmers-Tutorial-Python-Josh-
 
 ### [Intro](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Intro)
 
-http://www.hashcollision.org/hkn/python/idle_intro/index.html
+[a more in-depth introduction to IDLE](http://www.hashcollision.org/hkn/python/idle_intro/index.html)
 
-https://wiki.python.org/moin/Vim
+[Python wiki page about VIM](https://wiki.python.org/moin/Vim)
 
 
