@@ -48,7 +48,7 @@ Official [.pdf](https://legacy.gitbook.com/book/swaroopch/byte-of-python/details
 github/swaroopch/[byte-of-python](https://github.com/swaroopch/byte-of-python)  
 
 A Byte of Vim (@github:swaroopch)[https://github.com/swaroopch/byte-of-vim]  
-
+Offcial [.pdf](https://legacy.gitbook.com/download/pdf/book/swaroopch/byte-of-vim/details)  
 
 Unofficial by [Learnhall](https://www.youtube.com/channel/UCiWi_eloIEWJwz4iqYDh6SQ):  
 [A Byte of Python](https://www.youtube.com/playlist?list=PLfgdZqI9ksaj6f49m9rPw2m1sT97MECDh) Playlist  
