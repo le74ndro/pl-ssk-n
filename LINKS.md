@@ -54,7 +54,7 @@ Offcial [.pdf](https://legacy.gitbook.com/download/pdf/book/swaroopch/byte-of-vi
 [Introduction to Linux](http://tldp.org/LDP/intro-linux/html/index.html)  
 A Hands on Guide  
 
-
+[r/learnpython](https://www.reddit.com/r/learnpython)  
 https://python101.pythonlibrary.org/
 by https://readthedocs.org/
 and http://www.sphinx-doc.org/en/master/
