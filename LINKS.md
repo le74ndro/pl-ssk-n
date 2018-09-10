@@ -13,6 +13,8 @@
 
 [The Python Tutorial](https://docs.python.org/tutorial/index.html)  
 
+[Python Documentation Contents](https://docs.python.org/contents.html)  
+
 
 ## [wikipedia/Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
