@@ -57,6 +57,7 @@ A Hands on Guide
 
 https://python101.pythonlibrary.org/
 by https://readthedocs.org/
+and http://www.sphinx-doc.org/en/master/
 
 
 
