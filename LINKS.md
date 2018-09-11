@@ -91,4 +91,6 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 https://www.digitalocean.com/community/tags/project/tutorials
 
+https://www.digitalocean.com/community/users/ltagliaferri
+
 
