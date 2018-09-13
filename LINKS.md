@@ -17,7 +17,7 @@ Parts of the documentation:
 What's new in Python 3.7? : or all "What's new" documents since 2.0  
 Tutorial [The Python Tutorial](https://docs.python.org/tutorial/index.html) : start here  
 Library Reference [The Python Standard Library](https://docs.python.org/library/) : keep this under your pillow (help, for questions about standard modules) 
-Language Reference : describes syntax and language elements  
+Language Reference [The Python Language Reference](https://docs.python.org/reference/) : describes syntax and language elements  
 Python Setup and Usage : how to use Python on different platforms  
 Python HOWTOs : in-depth documents on specific topics  
 Installing Python Modules : installing from the Python Package Index & other sources  
