@@ -15,4 +15,6 @@ reviews at [Amazon](https://www.amazon.com/Non-Programmers-Tutorial-Python-Josh-
 
 [Python wiki page about VIM](https://wiki.python.org/moin/Vim)
 
+### [Hello, World](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3/Hello,_World)
+
 
