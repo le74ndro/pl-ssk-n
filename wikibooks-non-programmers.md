@@ -30,4 +30,8 @@ reviews at [Amazon](https://www.amazon.com/Non-Programmers-Tutorial-Python-Josh-
 
 ### Defining Functions
 
+### Advanced Functions Example
+
+
+
 
