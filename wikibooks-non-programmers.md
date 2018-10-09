@@ -38,3 +38,6 @@ reviews at [Amazon](https://www.amazon.com/Non-Programmers-Tutorial-Python-Josh-
 
 ### Boolean Expressions
 
+### Dictionaries
+
+
